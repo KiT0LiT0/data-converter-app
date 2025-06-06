@@ -26,27 +26,6 @@ Data Format Converter App
 - Выполнить конвертацию
 - Сохранить результат
 
-Структура проекта
------------------
-data-converter-app/
-│
-├── main.py                  # Главный файл с GUI и логикой
-├── converter/
-│   ├── csv_to_json.py
-│   ├── json_to_csv.py
-│   ├── xml_to_json.py
-│   └── ...
-│
-├── database/
-│   └── db_manager.py        # Работа с SQLite
-│
-├── data/                    # Примеры файлов
-│   ├── sample.json
-│   └── ...
-│
-├── README.txt
-└── requirements.txt         # Зависимости
-
 Установка и запуск
 ------------------
 1. Клонируйте проект:
