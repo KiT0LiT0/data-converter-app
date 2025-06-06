@@ -30,7 +30,7 @@ Data Format Converter App
 ------------------
 1. Клонируйте проект:
 
-   git clone https://github.com/ТВОЙ_ЛОГИН/data-converter-app.git
+   git clone https://github.com/KiT0LiT0/data-converter-app/tree/main
    cd data-converter-app
 
 2. Установите зависимости:
