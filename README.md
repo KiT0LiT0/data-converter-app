@@ -35,7 +35,7 @@ Data Format Converter App
 
 2. Установите зависимости:
 
-   pip install -r requirements.txt
+   pip install pandas
 
 3. Запустите:
 
